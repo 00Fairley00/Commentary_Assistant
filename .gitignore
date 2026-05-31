@@ -1,0 +1,14 @@
+# Virtual environment — never upload this
+venv/
+.venv/
+
+# Python cache
+__pycache__/
+*.pyc
+
+# Secrets — never upload API keys
+.env
+
+# macOS / editor clutter
+.DS_Store
+.vscode/
